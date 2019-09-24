@@ -13,10 +13,9 @@ https://nejmah.net
 
 ## Author
 
-👤 **Ahmad, Alaa, Bashar**
+👤 **Alaa , Eyad , Bashar**
 
-- Twitter: [@codewithahmad](https://twitter.com/codewithahmad)
-- Github: [@AhmadHerzallah](https://github.com/AhmadHerzallah)
+- Github: [@AlaaHijazi](https://github.com/AlaaHijazi)
 
 ## 🤝 Contributing
 
