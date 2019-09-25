@@ -1,6 +1,6 @@
 # Welcome to Nejmah 👋
 
-![Version](https://img.shields.io/badge/version-1.00-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-0.29-blue.svg?cacheSeconds=2592000)
 [![Twitter: nejmahcompany](https://img.shields.io/twitter/follow/nejmahcompany.svg?style=social)](https://twitter.com/nejmahcompany)
 
 > Nejmah, an automatic website to sell Designs and products with many types and colors.
@@ -13,9 +13,10 @@ https://nejmah.net
 
 ## Author
 
-👤 **Alaa , Eyad , Bashar**
+👤 **Ahmad, Alaa, Bashar**
 
-- Github: [@AlaaHijazi](https://github.com/AlaaHijazi)
+- Twitter: [@codewithahmad](https://twitter.com/codewithahmad)
+- Github: [@AhmadHerzallah](https://github.com/AhmadHerzallah)
 
 ## 🤝 Contributing
 
